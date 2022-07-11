@@ -4,3 +4,5 @@ iCn3D is a product with a long history of supporting scientific requirements. As
 * First Presentation:  https://docs.google.com/presentation/d/1OnyCz__iWb9fTSz5xCb71lRYy5MXRFTvo_NPsnCH3W0/edit#slide=id.g13bea56a948_0_7
 * ImmunoZoo instructions: https://docs.google.com/document/d/1mgUmdTZb0Jm8a7kcAk3M4k7qT7uyJdRhYs5H_GlYShE/edit?usp=sharing
 * ImmunoZoo collection of structures: https://docs.google.com/spreadsheets/d/1dNwRKIW9KKBT1mgaUcUotgTucZFmQWeYpRalAzj_OaQ/edit?usp=sharing
+
+*Resources - SAbDab - the structural antibody database http://opig.stats.ox.ac.uk/webapps/newsabdab/sabdab/
